@@ -1,0 +1,6 @@
+Content\background.xnb
+Content\jogador.xnb
+Content\Fonte.xnb
+Content\sonsAsteroids.xgs
+Content\Wave Bank.xwb
+Content\Sound Bank.xsb

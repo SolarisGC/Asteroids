@@ -1,0 +1,2 @@
+C:\Users\Aluno\Documents\Matheus Production\Asteroids\Asteroids\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\Matheus Production\Asteroids\Asteroids\Content\obj\x86\Debug\sonsAsteroids.xml

@@ -1,0 +1,12 @@
+C:\Users\Aluno\Documents\Matheus Production\Asteroids\Asteroids\bin\x86\Debug\Asteroids.exe
+C:\Users\Aluno\Documents\Matheus Production\Asteroids\Asteroids\bin\x86\Debug\Asteroids.pdb
+C:\Users\Aluno\Documents\Matheus Production\Asteroids\Asteroids\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\Matheus Production\Asteroids\Asteroids\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Aluno\Documents\Matheus Production\Asteroids\Asteroids\obj\x86\Debug\Asteroids.exe
+C:\Users\Aluno\Documents\Matheus Production\Asteroids\Asteroids\obj\x86\Debug\Asteroids.pdb
+C:\Users\Aluno\Documents\Matheus Production\Asteroids\Asteroids\bin\x86\Debug\Content\sonsAsteroids.xgs
+C:\Users\Aluno\Documents\Matheus Production\Asteroids\Asteroids\bin\x86\Debug\Content\jogador.xnb
+C:\Users\Aluno\Documents\Matheus Production\Asteroids\Asteroids\bin\x86\Debug\Content\background.xnb
+C:\Users\Aluno\Documents\Matheus Production\Asteroids\Asteroids\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Users\Aluno\Documents\Matheus Production\Asteroids\Asteroids\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Users\Aluno\Documents\Matheus Production\Asteroids\Asteroids\bin\x86\Debug\Content\Fonte.xnb
